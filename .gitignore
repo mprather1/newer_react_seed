@@ -1,0 +1,5 @@
+/node_modules
+/app/public/js
+/babel/cache
+/dist
+/app/bower_components
